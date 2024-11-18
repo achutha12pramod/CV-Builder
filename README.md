@@ -31,7 +31,7 @@ Welcome to the **CV Builder**! This simple yet powerful **Streamlit** applicatio
 
 1. **Run the Application**:
    ```bash
-   streamlit run app.py
+   streamlit run CV.py
    ```
 2. **Input Details**: Fill out the form fields for each CV section.  
 3. **Customize Your Design**: Select the template and background color of your choice.  
@@ -54,7 +54,7 @@ Ensure you have **Python 3.8+** installed on your system.
 Installation Steps  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/cv-builder.git
+   git clone https://github.com/your-username/CV-Builder.git
    cd cv-builder
    ```  
 2. Install dependencies:  
